@@ -50,6 +50,7 @@ img {
   height: 50vh;
 object-fit: cover;
   /* height: auto; */
+  }
 .wrapper {
     max-width: 1150px;
     margin: auto;
